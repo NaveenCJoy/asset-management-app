@@ -3,7 +3,6 @@ import { colors } from "../../utils/colors";
 
 export const styles = StyleSheet.create({
   container: {
-    marginTop: 20,
     marginBottom: 40,
     flexDirection: "row",
     alignItems: "center ",
